@@ -17,7 +17,7 @@
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    desenvolvendo e aprendendo um dia após o outro .. 😉️
   </p>
   
 </div>
@@ -33,7 +33,7 @@
    <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Redux" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="git" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff">
+ <img align="center" alt="git" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=95&color=fcfcfc">
 </div><br>
 
 <div align="center">

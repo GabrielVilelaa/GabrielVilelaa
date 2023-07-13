@@ -33,7 +33,7 @@
    <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Redux" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+ <img align="center" alt="git" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff">
 </div><br>
 
 <div align="center">

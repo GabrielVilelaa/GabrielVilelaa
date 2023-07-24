@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante e desenvolvedor back and .NET
+    Sou estudante e desenvolvedor back and .NET & Cyber security 
       <img
            width="10%" 
            align="center" 

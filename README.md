@@ -20,9 +20,9 @@
     desenvolvendo e aprendendo um dia após o outro .. 😉️
   </p>
 
-  </div>
+  <div align="center" valign="top"><br>
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/646c0fbccb6301e67f88c4e8?variant=dark" alt="roadmap.sh"/></a>
-  </div>
+</div><br>
 </div>
 
 <div align="center">
